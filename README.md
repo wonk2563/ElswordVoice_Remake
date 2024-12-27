@@ -4,7 +4,6 @@
 原版項目請參考：[ElswordVoice](https://github.com/explooosion/ElswordVoice/tree/master)
 
 <br />
-<br />
 
 ## 修改版特點
 此修改版與原版的主要差異：
@@ -15,14 +14,12 @@
 - 移除 Elsword 字樣，防止遊戲偵測
 
 <br />
-<br />
 
 ## 下載
 - 程式本體：[El_Voice](https://github.com/wonk2563/ElswordVoice_Remake/releases/download/Release/El_Voice.zip)
-- 字體檔：[自製方正粗圆體 + 台北黑體混合](https://github.com/wonk2563/ElswordVoice_Remake/releases/download/Release/data196.kom)
+- 字體檔：[自製方正粗圓體 + 台北黑體混合](https://github.com/wonk2563/ElswordVoice_Remake/releases/download/Release/data196.kom)
 - 拆包軟體：[CrackKom](https://ta7382.pixnet.net/blog/post/203158321)
 
-<br />
 <br />
 
 ## 使用方法
@@ -35,7 +32,6 @@
 5. 開啟遊戲，進入遊戲後字體便會轉換完成
 
 <br />
-<br />
 
 ### 開機自動啟動設定
 1. 開啟 Windows 內建的工作排程器
@@ -47,22 +43,35 @@
 ![image7.png](image7.png)
 
 <br />
-<br />
 
 ### 自訂字體方法
 1. 安裝 Python 2.7
 2. 使用 CrackKom.exe 開啟字體檔 (將 data196.kom 拖入)
+
+<br />
+
 ![image.png](image.png)
+
+<br />
+
 3. 拆出的資料會在程式目錄下的 data196 資料夾
+
+<br />
+
 ![image2.png](image2.png)
+
+<br />
+
 4. 將想使用的字體檔名改為：
    - DFT_P7.ttC
    - DFT_P7U.TTF
 5. 放入覆蓋原有檔案
 6. 將 data196 資料夾拖移進程式中，新的字體檔會產生在目錄下
-![image3.png](image3.png)
 
 <br />
+
+![image3.png](image3.png)
+
 <br />
 
 ## 授權
